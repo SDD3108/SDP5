@@ -6,7 +6,9 @@ Java 17 / Maven / JUnit 5. Assignment 5: **Strategy Pattern**.
 
 ```bash
 mvn test
+mvn clean test
 mvn exec:java
+
 ```
 
 ## Architecture and assignment questions
